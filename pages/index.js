@@ -28,7 +28,7 @@ export default function Home({ user }) {
 					</Link>
 				</div>
 			) : (
-				<div>
+				<div className="text-center">
 					<h1 className="text-3xl">Get My Paste</h1>
 					<div className="m-5">
 						<button
