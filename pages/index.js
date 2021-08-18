@@ -17,6 +17,10 @@ export default function Home({ user }) {
 					content="A Place For All Your Pastes"
 				/>
 				<meta
+					name="google-site-verification"
+					content="w5AEpKTK4j7WT2iTr-uW4B__Q29_Vxk27xneiA4XahY"
+				/>
+				<meta
 					name="keywords"
 					content="copy, paste, cut, programming, getmypaste, pastebin, hastebin, bin"
 				/>
