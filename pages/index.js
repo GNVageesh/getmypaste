@@ -12,6 +12,19 @@ export default function Home({ user }) {
 			<Head>
 				<title>GetMyPaste | Home</title>
 				<link rel="icon" href="/favicon.ico" />
+				<meta
+					name="description"
+					content="A Place For All Your Pastes"
+				/>
+				<meta
+					name="keywords"
+					content="copy, paste, cut, programming, getmypaste, pastebin, hastebin, bin"
+				/>
+				<meta name="author" content="GN Vageesh" />
+				<meta
+					name="viewport"
+					content="width=device-width, initial-scale=1.0"
+				/>
 			</Head>
 
 			{user ? (
